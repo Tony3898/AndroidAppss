@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/firstit"
+        android:icon="@drawable/ic_launcher_foreground"
+        android:title="First" />
+    <item
+        android:id="@+id/secondit"
+        android:icon="@drawable/ic_launcher_foreground"
+        android:title="Second" />
+    <item
+        android:id="@+id/thirdit"
+        android:icon="@drawable/ic_launcher_foreground"
+        android:title="Third" />
+</menu>
